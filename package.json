@@ -1,6 +1,7 @@
 {
   "name": "bitcoin_to_currency_converter_front",
   "version": "0.1.0",
+  "homepage": "https://github.com/mohanrajtopnotch/bitcoin_to_currency_converter_front",
   "private": true,
   "dependencies": {
     "@ant-design/charts": "^1.1.2",
@@ -25,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
