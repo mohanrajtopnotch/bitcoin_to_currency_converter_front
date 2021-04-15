@@ -1,2 +1,8 @@
-import { create } from 'zustand'
-export const CurrencyStore = create(null);
+import create  from 'zustand'
+ const CurrencyStore = create(set =>({
+        currencyType:"USD",
+        SetCurrencyType: 
+        (param) => set(state => ({currencyType:param}))
+    })
+);
+export default CurrencyStore;
