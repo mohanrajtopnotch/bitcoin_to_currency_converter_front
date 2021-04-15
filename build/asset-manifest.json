@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/main.db58007e.chunk.js",
+    "main.js.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/main.db58007e.chunk.js.map",
+    "runtime-main.js": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/runtime-main.965912f0.js",
+    "runtime-main.js.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/runtime-main.965912f0.js.map",
+    "static/css/2.558413a2.chunk.css": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/css/2.558413a2.chunk.css",
+    "static/js/2.e1cf6365.chunk.js": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/2.e1cf6365.chunk.js",
+    "static/js/2.e1cf6365.chunk.js.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/2.e1cf6365.chunk.js.map",
+    "static/js/3.ac30e019.chunk.js": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/3.ac30e019.chunk.js",
+    "static/js/3.ac30e019.chunk.js.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/3.ac30e019.chunk.js.map",
+    "index.html": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e1cf6365.chunk.js.LICENSE.txt": "/mohanrajtopnotch/bitcoin_to_currency_converter_front/static/js/2.e1cf6365.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.965912f0.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.e1cf6365.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.db58007e.chunk.js"
+  ]
+}
